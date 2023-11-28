@@ -1,3 +1,6 @@
+![logo](https://github.com/bhatiaarpit/bhatiaarpit/blob/main/arpit%20Bhatiaaa.png)
+
+
 <h1 align="center">Hey I'm Arpit Bhatia</h1>
 <h3 align="center">Software Enginner & Web Designer</h3>
 
