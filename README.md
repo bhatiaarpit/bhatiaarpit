@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-**Full Stack Developer**
+- **Full Stack Developer**
 
 - 📫 How to reach me **arpitbhatia903@gmail.com**
 
