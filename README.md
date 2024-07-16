@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-- Currently Learning **Full Stack Development**
+**Full Stack Developer**
 
 - 📫 How to reach me **arpitbhatia903@gmail.com**
 
