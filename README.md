@@ -27,7 +27,6 @@
 ![bhatiaarpit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhatiaarpit&theme=highcontrast&hide_border=true)
 ![bhatiaarpit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatiaarpit&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
-[![bhatiaarpit's GitHub | Stats](https://stats.quine.sh/bhatiaarpit/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bhatiaarpit)
 ---
 [![](https://visitcount.itsvg.in/api?id=bhatiaarpit&icon=5&color=1)](https://visitcount.itsvg.in)
 
