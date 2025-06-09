@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **arpitbhatia903@gmail.com**
 
-- 📄 Know about my experiences **https://arpitbhatia.vercel.app/**
+- 📄 Know about my experiences **https://arpitbhatia.com/**
 
 - ⚡ Apart from this **I love to do photography, editing and content creation.**
 
