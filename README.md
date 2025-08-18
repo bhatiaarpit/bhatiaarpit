@@ -1,5 +1,3 @@
-# Hey there! I'm Arpit Bhatia 👋
-
 <div align="center">
   <img src="https://github.com/bhatiaarpit/bhatiaarpit/assets/118626392/4d4a819f-9d26-4af7-a725-8d4257bf228a" alt="Arpit Bhatia" />
 </div>
