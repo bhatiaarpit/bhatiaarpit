@@ -6,22 +6,33 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdwY2hzZTk5bnhjcjJvYzJ2aGd5eDd1NWZ6c3hwZDN1NnFlajZsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-Hi, I'm Arpit Bhatia, a passionate Software Development Engineer with 1+ years of experience in React.js, Next.js, and Shopify development. I specialize in building responsive, user-friendly interfaces with strong attention to UI/UX and performance optimization.
+Hi, I'm **Arpit Bhatia**, a passionate Software Development Engineer with 1+ years of experience in **React.js**, **Next.js**, and **Shopify** development. I specialize in building responsive, user-friendly interfaces with strong attention to UI/UX and performance optimization.
 
-- 🔭 Currently working as SDE 1 at Marmeto in Bengaluru
-- 🛍️ Specialized in Shopify theme/app development and e-commerce solutions
-- 🌱 I specialize in **React**, **JavaScript**, **Node.js**, and modern web technologies
-- 🎨 Skilled in design tools like **Figma**, **Photoshop**, and **Canva**
-- 📸 Apart from coding, I love **photography**, **editing**, and **content creation**
-- ⚡ Fun fact: I turn coffee into code and pixels into magic ✨
-- 💬 Ask me about web development, design, or anything tech-related
+- 🔭 Currently working as **SDE 1 at Marmeto** in Bengaluru  
+- 🛍️ Specialized in **Shopify** theme/app development and e-commerce solutions  
+- 🌱 Skilled in **React**, **JavaScript**, **Node.js**, and modern web technologies  
+- 🎨 Experienced with design tools like **Figma**, **Photoshop**, and **Canva**  
+- 📸 I enjoy **photography**, **editing**, and **content creation**  
+- ⚡ Fun fact: I turn coffee into code and pixels into magic ✨  
+- 💬 Ask me about web development, design, or anything tech-related  
 - 📫 Reach me at: **arpitbhatia903@gmail.com**
 
-## 📫 Let's Connect!
+</td>
+<td width="50%" align="center">
 
-<div align="left">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdwY2hzZTk5bnhjcjJvYzJ2aGd5eDd1NWZ6c3hwZDN1NnFlajZsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" width="90%" alt="Coding gif"/>
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitbhatia903@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arpitbhatia.com/)
@@ -29,9 +40,6 @@ Hi, I'm Arpit Bhatia, a passionate Software Development Engineer with 1+ years o
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/focuscrafter)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/@arpit_bhatia_)
 
-</div>
-
----
 
 ## 🛠️ Tech Stack
 <table>
