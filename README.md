@@ -117,9 +117,9 @@ Hi, I'm **Arpit Bhatia**, a passionate Software Development Engineer with 1+ yea
 ## 📊 GitHub Analytics
 
 <div align="left">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=bhatiaarpit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatiaarpit&theme=tokyonight" alt="GitHub Streak" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatiaarpit&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=bhatiaarpit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatiaarpit&theme=tokyonight" alt="GitHub Streak" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatiaarpit&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhatiaarpit&theme=tokyo-night&area=true&hide_border=true&custom_title=Arpit's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="100%"/>
