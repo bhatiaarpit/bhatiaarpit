@@ -4,21 +4,14 @@
   <img src="https://github.com/bhatiaarpit/bhatiaarpit/assets/118626392/4d4a819f-9d26-4af7-a725-8d4257bf228a" alt="Arpit Bhatia" />
 </div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Designer)](https://git.io/typing-svg)
+## 🧑‍💻 About Me
 
-</div>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdwY2hzZTk5bnhjcjJvYzJ2aGd5eDd1NWZ6c3hwZDN1NnFlajZsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif">
 
----
+Hi, I'm Arpit Bhatia, a passionate Software Development Engineer with 1+ years of experience in React.js, Next.js, and Shopify development. I specialize in building responsive, user-friendly interfaces with strong attention to UI/UX and performance optimization.
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-Hi, I'm **Arpit Bhatia**, a passionate **Full Stack Developer** and **Web Designer** who loves creating dynamic and responsive web applications. I specialize in modern web technologies and have a keen eye for blending aesthetics with functionality.
-
-- 🔭 I'm currently working on building amazing web experiences
+- 🔭 Currently working as SDE 1 at Marmeto in Bengaluru
+- 🛍️ Specialized in Shopify theme/app development and e-commerce solutions
 - 🌱 I specialize in **React**, **JavaScript**, **Node.js**, and modern web technologies
 - 🎨 Skilled in design tools like **Figma**, **Photoshop**, and **Canva**
 - 📸 Apart from coding, I love **photography**, **editing**, and **content creation**
@@ -26,11 +19,9 @@ Hi, I'm **Arpit Bhatia**, a passionate **Full Stack Developer** and **Web Design
 - 💬 Ask me about web development, design, or anything tech-related
 - 📫 Reach me at: **arpitbhatia903@gmail.com**
 
----
-
 ## 📫 Let's Connect!
 
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitbhatia903@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arpitbhatia.com/)
@@ -117,17 +108,13 @@ Hi, I'm **Arpit Bhatia**, a passionate **Full Stack Developer** and **Web Design
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhatiaarpit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatiaarpit&layout=compact&langs_count=8&theme=tokyonight"/>
+<div align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bhatiaarpit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatiaarpit&theme=tokyonight" alt="GitHub Streak" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatiaarpit&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhatiaarpit&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhatiaarpit&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhatiaarpit&theme=tokyo-night&area=true&hide_border=true&custom_title=Arpit's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="100%"/>
 </div>
 
 ---
