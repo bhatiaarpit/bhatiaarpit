@@ -8,7 +8,7 @@
   <tr>
     <td width="50%" valign="top">
 
-Hi, I'm **Arpit Bhatia**, a passionate Software Development Engineer with 1+ years of experience in **React.js**, **Next.js**, and **Shopify** development. I specialize in building responsive, user-friendly interfaces with strong attention to UI/UX and performance optimization.
+Hi, I'm **Arpit Bhatia**, a passionate Software Development Engineer with 2+ years of experience in **React.js**, **Next.js**, and **Shopify** development. I specialize in building responsive, user-friendly interfaces with strong attention to UI/UX and performance optimization.
 
 - 🔭 Currently working as **SDE 1 at Marmeto** in Bengaluru  
 - 🛍️ Specialized in **Shopify** theme/app development and e-commerce solutions  
